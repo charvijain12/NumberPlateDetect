@@ -52,5 +52,3 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Feel free to customize this README to better fit your project's needs or to reflect your personal style. Remember, a good README is key to engaging your audience and explaining your project's value! 🌈✨
